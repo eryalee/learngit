@@ -4,6 +4,3 @@ git has a mutable index called stage.
 devdev  version
 devdev  version
 devdev  version
-rrrrr
-
-RRRRRR
