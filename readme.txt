@@ -1,6 +1,5 @@
 git is a distributed version control system
 git is free software
 git has a mutable index called stage.
-commit version
-master and dev
-dev and master
+master add a version
+dev add a version
