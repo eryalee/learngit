@@ -11,4 +11,4 @@ middle master
 master
 master
 add master
-add master 1
+add master 1,2
